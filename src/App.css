@@ -1,0 +1,62 @@
+body{
+  background-color: darkolivegreen;
+}
+
+.container{
+  margin: 0 auto;
+  max-width: 1200px;
+  padding-top: 50px;
+}
+
+.container h1 {
+  text-align: center;
+}
+
+.card{
+  padding:20px 30px;
+  border-radius: 5px;
+  background-color: darkseagreen;
+  margin: 0 auto;
+  width: 500px;
+  margin-bottom: 30px;
+
+}
+.card label {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 5px;
+  display: inline-block;
+}
+
+.textInput{
+  border-radius: 3px;
+  font-size: 26px;
+  width: 100%;
+  height: 32px;
+  margin-bottom: 15px;
+  border: 1px solid grey;
+}
+
+
+.submitButton{
+  cursor: pointer;
+  font-size: 20px;
+  margin-top: 10px;
+  border-radius: 5px;
+  border: 1px solid grey;
+  padding: 10px 15px;
+  color: beige;
+  background-color: cornflowerblue;
+}
+
+.clearButton{
+  margin-left: 200px;
+  cursor: pointer;
+  font-size: 20px;
+  margin-top: 10px;
+  border-radius: 5px;
+  border: 1px solid grey;
+  padding: 10px 15px;
+  color: beige;
+  background-color: green;
+}

@@ -1,0 +1,39 @@
+.complete{
+    text-decoration: line-through;
+}
+
+.row{
+    display: flex;
+    align-items: baseline;
+}
+
+.row h2{
+    margin: 0;
+    margin-right: 10px;
+}
+.row p{
+    margin: 10px;
+}
+
+.toggleCheck{
+   
+    border: 1px solid gray;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left: 25px;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 3px;
+    border: 1px solid grey;
+}
+
+.deleteBtn{
+    background-color:maroon;
+    color: oldlace;
+    padding: 10px 15px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    margin-top: 10px;
+    font-size: 20px;
+    cursor: pointer;
+}
